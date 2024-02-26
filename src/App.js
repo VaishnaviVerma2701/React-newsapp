@@ -1,6 +1,4 @@
 
- //  app is class based app
-
 //import './Appcss';
 import React, { useState } from 'react'
 import News from './components/News';
